@@ -1,20 +1,20 @@
 Detecting C [-std=c11] compiler features failed to compile with the following output:
 Change Dir: /Users/Atlantis/My Projects/C:C++/ccf_csp/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_a3bbf/fast"
-/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_a3bbf.dir/build.make CMakeFiles/cmTC_a3bbf.dir/build
-CMakeFiles/cmTC_a3bbf.dir/build.make:64: *** target pattern contains no `%'.  Stop.
-make: *** [cmTC_a3bbf/fast] Error 2
+Run Build Command:"/usr/bin/make" "cmTC_688ca/fast"
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_688ca.dir/build.make CMakeFiles/cmTC_688ca.dir/build
+CMakeFiles/cmTC_688ca.dir/build.make:64: *** target pattern contains no `%'.  Stop.
+make: *** [cmTC_688ca/fast] Error 2
 
 
 
 Detecting CXX [-std=c++1z] compiler features failed to compile with the following output:
 Change Dir: /Users/Atlantis/My Projects/C:C++/ccf_csp/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_e1aa9/fast"
-/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_e1aa9.dir/build.make CMakeFiles/cmTC_e1aa9.dir/build
-CMakeFiles/cmTC_e1aa9.dir/build.make:64: *** target pattern contains no `%'.  Stop.
-make: *** [cmTC_e1aa9/fast] Error 2
+Run Build Command:"/usr/bin/make" "cmTC_2f7e7/fast"
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_2f7e7.dir/build.make CMakeFiles/cmTC_2f7e7.dir/build
+CMakeFiles/cmTC_2f7e7.dir/build.make:64: *** target pattern contains no `%'.  Stop.
+make: *** [cmTC_2f7e7/fast] Error 2
 
 
 

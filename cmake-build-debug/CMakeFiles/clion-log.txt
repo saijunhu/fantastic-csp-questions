@@ -1,4 +1,4 @@
-/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/Users/Atlantis/My Projects/C:C++/ccf_csp"
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/Users/Atlantis/My Projects/C:C++/ccf_csp"
 -- Configuring done
 -- Generating done
 -- Build files have been written to: /Users/Atlantis/My Projects/C:C++/ccf_csp/cmake-build-debug

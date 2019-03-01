@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/ccf_csp.dir/201312-5.cpp.o"
+  "CMakeFiles/ccf_csp.dir/201812-1.cpp.o"
+  "CMakeFiles/ccf_csp.dir/201812-2.cpp.o"
   "ccf_csp.pdb"
   "ccf_csp"
 )

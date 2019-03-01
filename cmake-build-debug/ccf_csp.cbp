@@ -80,7 +80,10 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/Atlantis/My Projects/C:C++/ccf_csp/201312-5.cpp">
+		<Unit filename="/Users/Atlantis/My Projects/C:C++/ccf_csp/201812-1.cpp">
+			<Option target="ccf_csp"/>
+		</Unit>
+		<Unit filename="/Users/Atlantis/My Projects/C:C++/ccf_csp/201812-2.cpp">
 			<Option target="ccf_csp"/>
 		</Unit>
 		<Unit filename="/Users/Atlantis/My Projects/C:C++/ccf_csp/CMakeLists.txt">

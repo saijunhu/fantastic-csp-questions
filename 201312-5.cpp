@@ -75,7 +75,7 @@ int main(){
             if(ch=='T'){t_r=j;t_c=i;}
         }
     }
-    //bfs，标记从S可以到达的点
+    //dfs，标记从S可以到达的点
     memset(visited,0, sizeof(visited));
     dfs(s_r,s_c);
     memcpy(visited2,visited, sizeof(visited));
